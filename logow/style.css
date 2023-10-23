@@ -1,0 +1,7 @@
+body {
+  background-color: black;
+}
+.floated_img
+{
+  float: left;
+}
